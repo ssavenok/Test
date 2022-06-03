@@ -1,8 +1,3 @@
-checkout[Hgit 
-[B
-
-[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[Cgit
-
-checkout
-
-post
+1) post_1
+2) post_2
+3) post_3
